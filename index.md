@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+Preview de Real Casa de Moneda: Nueva España Ciberpunk
 
-You can use the [editor on GitHub](https://github.com/jeserra/rcmtestpool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Staking pool basado en Zapopan, Mexico, para apoyo de organizaciones civiles  en Sombrerete, Mexico y adopcion de la red de Cardano en General.
+### Testnet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Primera version del nodo en la testnet.
 
 ```markdown
 Syntax highlighted code block
